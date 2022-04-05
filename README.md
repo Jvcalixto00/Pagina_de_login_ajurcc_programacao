@@ -1,1 +1,4 @@
-# Pagina_de_login_ajurcc_programacao
+# page-login-turma-ajurcc
+Página de login que vamos criar com os alunos de programação da AJURCC.
+OBS! Ainda em desenvolvimento.
+
